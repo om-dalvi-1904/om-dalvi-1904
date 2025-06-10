@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Om Dalvi<br>👀 I’m interested in development<br>🌱 I’m currently learning Android App Development in Kotlin<br>📫 How to reach me https://www.linkedin.com/in/omdalvi19/<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I balance coding with sports—catch me either debugging code or spiking on the volleyball court! 🏐💻
+👋 Hi, I’m Om Dalvi<br>👀 I’m interested in development<br>🌱 I’m currently learning Android App Development in Kotlin<br>📫 How to reach me https://www.linkedin.com/in/omdalvi19/(https://om-dalvi-portfolio.vercel.app/)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I balance coding with sports—catch me either debugging code or spiking on the volleyball court! 🏐💻
 
 
 ## 🌐 Socials:
